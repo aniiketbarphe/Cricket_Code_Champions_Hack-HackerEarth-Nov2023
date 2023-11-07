@@ -33,3 +33,5 @@ Ensuring real-time updates and transparency in prediction factors is crucial.
 Resources
 Cricket statistics databases like ESPN Cricinfo or Cricbuzz
 Open-source machine learning libraries such as Scikit-learn and TensorFlow
+
+![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/b3ec49b1-4dce-43ac-8cce-3f8190e58384)
