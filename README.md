@@ -34,4 +34,32 @@ Resources
 Cricket statistics databases like ESPN Cricinfo or Cricbuzz
 Open-source machine learning libraries such as Scikit-learn and TensorFlow
 
-![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/b3ec49b1-4dce-43ac-8cce-3f8190e58384)
+PRIZES
+
+![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/045048bc-e8cb-4959-8c8a-87f579cc207b)
+
+RULES
+It's an online hackathon, you can participate from anywhere.
+There are 5 Themes as part of this hackathon, you must submit am idea that is in one of these themes.
+Once the Idea Submission phase starts, you will get an option to submit your ideas, you can submit as many times as you want, the last idea will be considered as the final submission.
+You are expected to come up with new and innovative ideas, any idea that has been copied from somewhere will be disqualified.
+Your hack must be developed entirely during the Hackathon duration. You may use open source libraries and other freely available systems / services such as Google Maps, Facebook Connect, Twitter feeds etc.
+The intellectual property of your code belongs only to your team.
+By participating in the hackathon, you agree to the terms and conditions of HackerEarth.
+
+SUBMISSION GUIDELINE
+Project description (mandatory)
+Presentation (mandatory) 
+Describe approaches and theories used
+Flowchart or workflow of the project
+Explain the new features of your project
+Timelines of the project or idea
+Video and demo link of the project
+
+![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/0bde271e-e016-46bf-a64d-4b1a8fd7ef16)
+
+Competition Link:-
+
+https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/
+
+
