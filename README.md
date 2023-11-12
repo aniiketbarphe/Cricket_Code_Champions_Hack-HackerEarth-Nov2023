@@ -24,7 +24,7 @@ This hackathon invites tech enthusiasts, developers, and cricket aficionados to 
 **4) Cricket language translation**
 
 **5) Open innovation**
-
+#
 **D) Theme Selected for implementation under this hackathon:-**  Player performance prediction for World Cup matches
 
 **D1) Overview:-** 
@@ -52,7 +52,7 @@ Create a dynamic and adaptable machine learning model that considers the rapid c
 **D4.1)** Cricket statistics databases like ESPN Cricinfo or Cricbuzz
 
 **D4.2)** Open-source machine learning libraries such as Scikit-learn and TensorFlow
-
+#
 PRIZES
 
 ![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/045048bc-e8cb-4959-8c8a-87f579cc207b)
