@@ -79,18 +79,25 @@ https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023
 #
 **K) Best Weighted Average of the RMSE after the clash between India and Australia on Oct 8 2023:-**  8.8974648075
 #
-PRIZES
+**L) Hackathon Rewards:-**
 
 ![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/045048bc-e8cb-4959-8c8a-87f579cc207b)
+#
+**M) Hackathon Rules:-**
 
-RULES
-It's an online hackathon, you can participate from anywhere.
-There are 5 Themes as part of this hackathon, you must submit am idea that is in one of these themes.
-Once the Idea Submission phase starts, you will get an option to submit your ideas, you can submit as many times as you want, the last idea will be considered as the final submission.
-You are expected to come up with new and innovative ideas, any idea that has been copied from somewhere will be disqualified.
-Your hack must be developed entirely during the Hackathon duration. You may use open source libraries and other freely available systems / services such as Google Maps, Facebook Connect, Twitter feeds etc.
-The intellectual property of your code belongs only to your team.
-By participating in the hackathon, you agree to the terms and conditions of HackerEarth.
+**M1)** It's an online hackathon, you can participate from anywhere.
+
+**M2)** There are 5 Themes as part of this hackathon, you must submit am idea that is in one of these themes.
+
+**M3)** Once the Idea Submission phase starts, you will get an option to submit your ideas, you can submit as many times as you want, the last idea will be considered as the final submission.
+
+**M4)** You are expected to come up with new and innovative ideas, any idea that has been copied from somewhere will be disqualified.
+
+**M5)** Your hack must be developed entirely during the Hackathon duration. You may use open source libraries and other freely available systems / services such as Google Maps, Facebook Connect, Twitter feeds etc.
+
+**M6)** The intellectual property of your code belongs only to your team.
+
+**M7)** By participating in the hackathon, you agree to the terms and conditions of HackerEarth.
 
 SUBMISSION GUIDELINE
 Project description (mandatory)
