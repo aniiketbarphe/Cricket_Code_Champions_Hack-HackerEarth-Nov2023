@@ -53,7 +53,9 @@ Create a dynamic and adaptable machine learning model that considers the rapid c
 
 **D4.2)** Open-source machine learning libraries such as Scikit-learn and TensorFlow
 #
-**E) Data utilized for constructing the machine learning model:-**  https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Input_Dataset.zip
+**E) Data utilized for constructing the machine learning model:-**  
+
+https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Input_Dataset.zip
 #
 **F) About the Dataset:-** A dataset comprising the batting and bowling statistics of the 30 players chosen for the ICC World Cup 2023 from both the Indian and Australian teams has been acquired from the ESPNCrickInfo website. This dataset encompasses the batting and bowling performance metrics for each One Day International (ODI) played by the cricketer throughout their career. Additionally, all the extracted data is as of September 30, 2023.
 #
