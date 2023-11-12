@@ -16,32 +16,42 @@ This hackathon invites tech enthusiasts, developers, and cricket aficionados to 
 **C) Themes available under Hackathon:-**
 
 **1) Player performance prediction for World Cup matches**
-**2) Cricket for the visually impaired**
-**3) Cricket fan travel planning for world cup events**
-**4) Cricket language translation**
-**5) Open innovation**
- 
-Player performance prediction for World Cup matches
-Develop a predictive algorithm that forecasts a player's performance accurately in cricket World Cup matches.
 
-Overview
+**2) Cricket for the visually impaired**
+
+**3) Cricket fan travel planning for world cup events**
+
+**4) Cricket language translation**
+
+**5) Open innovation**
+
+**D) Theme Selected for implementation under this hackathon:-**  Player performance prediction for World Cup matches
+
+**D1) Overview:-** 
+
 This theme focuses on developing an algorithm to predict the performance of cricket players in World Cup matches. It aims at considering a wide range of factors including historical statistics, recent form, pitch conditions, opposition strength, and even psychological readiness to provide data-driven predictions.
 
 The goal is to enhance the decision-making process for fans and team strategists. The model that you build should be able to predict a player's performance across various formats of the game, such as T20, Test, and One Day matches.
 
-Tech stack
-Open to all
-Tasks
+**D2) Tech Stack:-** Open to all
+
+**D3) Tasks:-**
+
 Create a dynamic and adaptable machine learning model that considers the rapid changes in cricket matches, accounting for variables including, but not limited to, the following:
 
-Changing weather conditions
-Form fluctuations
-Pitch variations
-Ensuring real-time updates and transparency in prediction factors is crucial.
+**D3.1)** Changing weather conditions
 
-Resources
-Cricket statistics databases like ESPN Cricinfo or Cricbuzz
-Open-source machine learning libraries such as Scikit-learn and TensorFlow
+**D3.2)** Form fluctuations
+
+**D3.3)** Pitch variations
+
+**D3.4)** Ensuring real-time updates and transparency in prediction factors is crucial.
+
+**D4) Resources:-**
+
+**D4.1)** Cricket statistics databases like ESPN Cricinfo or Cricbuzz
+
+**D4.2)** Open-source machine learning libraries such as Scikit-learn and TensorFlow
 
 PRIZES
 
