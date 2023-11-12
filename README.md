@@ -98,19 +98,24 @@ https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023
 **M6)** The intellectual property of your code belongs only to your team.
 
 **M7)** By participating in the hackathon, you agree to the terms and conditions of HackerEarth.
+#
+**N) Submission Guideline:-**
 
-SUBMISSION GUIDELINE
-Project description (mandatory)
-Presentation (mandatory) 
-Describe approaches and theories used
-Flowchart or workflow of the project
-Explain the new features of your project
-Timelines of the project or idea
-Video and demo link of the project
+**N1) Project description (mandatory)**
 
-![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/0bde271e-e016-46bf-a64d-4b1a8fd7ef16)
+**N2) Presentation (mandatory)**
 
-Competition Link:-
+**N2.1) Describe approaches and theories used**
+
+**N2.2) Flowchart or workflow of the project**
+
+**N2.3) Explain the new features of your project**
+
+**N2.4) Timelines of the project or idea**
+
+**N3) Video and demo link of the project**
+#
+**O) Competition Link:-**
 
 https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/
 
