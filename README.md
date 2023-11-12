@@ -76,8 +76,8 @@ https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023
 **J) Result: Match concluded on October 8, 2023, with the actual score:-**
 
 https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Actual-Score-Match-08OCT2023.zip
-
-
+#
+**K) Best Weighted Average of the RMSE after the clash between India and Australia on Oct 8 2023:-**  8.8974648075
 #
 PRIZES
 
