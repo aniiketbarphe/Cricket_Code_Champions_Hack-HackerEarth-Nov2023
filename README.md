@@ -63,6 +63,22 @@ https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023
 
 https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Aniket-Barphe-Approach.pdf
 #
+**H) Full Code Implementation:-**
+
+https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Player_Performance_Prediction_Fr_World-Cup_Matches.ipynb
+#
+**I) Best Machine Learning Model used for the prediction:-**
+
+**I1) Target Variable :- 'RUN_SCORED'** [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
+
+**I2) Target Variable :- 'Wickets Taken'** [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
+#
+**J) Result: Match concluded on October 8, 2023, with the actual score:-**
+
+https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/blob/main/Actual-Score-Match-08OCT2023.zip
+
+
+#
 PRIZES
 
 ![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/045048bc-e8cb-4959-8c8a-87f579cc207b)
