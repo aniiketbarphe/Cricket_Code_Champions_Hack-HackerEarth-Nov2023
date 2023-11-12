@@ -2,17 +2,24 @@
 
 # Cricket_Code_Champions_Hack-HackerEarth-Nov2023
 
-OVERVIEW
+**A) OVERVIEW:-**
+
 Cricket Code Champions Hack is a hackathon that merges the thrills of the ICC Cricket World Cup with cutting-edge technology and creative innovation.
 
 This hackathon invites tech enthusiasts, developers, and cricket aficionados to collaborate on groundbreaking solutions inspired by the world of cricket. Join this hackathon to bowl over the boundaries of convention and score with your ingenious ideas as you embark on a journey that bridges cricket's spirit with tech's prowess.
 
-Hackathon Timeline
+**B) Hackathon Timeline:-**
 
 ![image](https://github.com/aniiketbarphe/Cricket_Code_Champions_Hack-HackerEarth-Nov2023/assets/84449238/c3aba876-114e-470e-9339-42b8f0ab1975)
 
 
-THEMES
+**C) Themes available under Hackathon:-**
+
+1) Player performance prediction for World Cup matches
+2) Cricket for the visually impaired
+3) Cricket fan travel planning for world cup events
+4) Cricket language translation
+5) Open innovation
  
 Player performance prediction for World Cup matches
 Develop a predictive algorithm that forecasts a player's performance accurately in cricket World Cup matches.
