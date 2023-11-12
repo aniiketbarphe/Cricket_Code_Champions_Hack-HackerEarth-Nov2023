@@ -15,11 +15,11 @@ This hackathon invites tech enthusiasts, developers, and cricket aficionados to 
 
 **C) Themes available under Hackathon:-**
 
-1) Player performance prediction for World Cup matches
-2) Cricket for the visually impaired
-3) Cricket fan travel planning for world cup events
-4) Cricket language translation
-5) Open innovation
+**1) Player performance prediction for World Cup matches**
+**2) Cricket for the visually impaired**
+**3) Cricket fan travel planning for world cup events**
+**4) Cricket language translation**
+**5) Open innovation**
  
 Player performance prediction for World Cup matches
 Develop a predictive algorithm that forecasts a player's performance accurately in cricket World Cup matches.
